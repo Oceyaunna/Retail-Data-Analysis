@@ -6,7 +6,7 @@ My dataset: (https://www.kaggle.com/datasets/manjeetsingh/retaildataset?select=s
 
 #Project OverView
 
-Part 1 is a description of your project and dataset link
+Part 1 is a description of the project and dataset link
 
 Part 2 is EDA where I look at the shape and summary statistics of my data (look at the columns and check for nulls)
 
